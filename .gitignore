@@ -1,0 +1,6 @@
+
+data/
+uploads/*
+!uploads/.gitkeep
+
+*.log
